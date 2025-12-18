@@ -1,3 +1,6 @@
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/bb7129bf-3796-4555-8050-3e2d07d7d671" />
+
 # The Game of General Relativity  
 ### *A Player’s Handbook*
 
